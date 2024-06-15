@@ -3,7 +3,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
   <div align="center" >
  <img src="https://i.imgur.com/i3sbNAX.gif" width="30%" height="20%" alt="C" />
 </div>
-=========================================================================================
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishcheyk&label=Profile%20views&color=0e75b6&style=flat" alt="nishcheyk" /> </p>
 
