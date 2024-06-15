@@ -1,5 +1,20 @@
 # 👨‍💻 Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Nishchey Khajuria
-=========================================================================================================================================
+============================================================================================
+<p align="center">
+  <img src="![image](https://github.com/nishcheyk/nishcheyk/assets/70341267/4e918313-75cd-415f-9b6d-9c9993c37a03)" alt="Nishchey Khajuria">
+ </p>
+<div align="center">
+    
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+
+</div>
+
+
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishcheyk&label=Profile%20views&color=0e75b6&style=flat" alt="nishcheyk" /> </p>
 
 **Full stack developer**
 
@@ -69,14 +84,17 @@
 </p>
 
 ### Badges
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishcheyk" alt="nishcheyk" /></a> </p>
 
 <b>My GitHub Stats</b>
-
+<div align="center">
+    
 [![nishcheyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/nishcheyk)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/nishcheyk)
-[![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nishcheyk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/nishcheyk)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/nishcheyk)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/nishcheyk)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/nishcheyk)
+</div>
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
