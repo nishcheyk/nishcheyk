@@ -2,10 +2,8 @@
 </div>
 =========================================================================================
 
-
-
- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishcheyk&label=Profile%20views&color=0e75b6&style=flat" alt="nishcheyk" /> </p>
+
 ## About Me
 Hello there! I'm Nishchey Khajuria, a passionate full-stack developer with a knack for creating dynamic and responsive web applications. My journey in the tech world began with a fascination for how things work behind the scenes. This curiosity led me to delve into coding, and since then, I've been on an exciting adventure, learning and building amazing projects.
 
