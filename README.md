@@ -1,4 +1,7 @@
-<div align="center" ><img src="https://i.pinimg.com/originals/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.png" width="300" height="200" alt="C" /> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Nishchey Khajuria  <img src="https://i.imgur.com/i3sbNAX.gif" width="300" height="200" alt="C" />
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">  My name is Nishchey Khajuria  
+ =========================================================================================
+  <div align="center" >
+ <img src="https://i.imgur.com/i3sbNAX.gif" width="30%" height="20%" alt="C" />
 </div>
 =========================================================================================
 
@@ -9,7 +12,7 @@ Hello there! I'm Nishchey Khajuria, a passionate full-stack developer with a kna
 
 When I'm not coding, you can find me exploring new technologies, reading tech blogs, or experimenting with different frameworks and libraries. I'm always eager to take on new challenges and collaborate with like-minded individuals. Let's connect and create something awesome together! 🌟
  <div align="center" >
-<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" height="300" width="500"/>
+<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" height="30%" width="50%"/>
  </div>
  
 **Full stack developer**
@@ -19,7 +22,8 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 - ⚡ Fun fact: Don't tell anyone, I am a ninja! 🥷
 
 ### Skills
-<p align="left">
+  <div align="center" >
+<p align="center">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
     </a>
@@ -63,10 +67,10 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
 </p>
-
+  </div>
 ### Socials
 <div align="center">
-   
+
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/nishcheyk) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
