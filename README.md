@@ -2,8 +2,6 @@
 </div>
 ============================================================================================
 
- 
-
 
 
  
@@ -11,7 +9,11 @@
 ## About Me
 Hello there! I'm Nishchey Khajuria, a passionate full-stack developer with a knack for creating dynamic and responsive web applications. My journey in the tech world began with a fascination for how things work behind the scenes. This curiosity led me to delve into coding, and since then, I've been on an exciting adventure, learning and building amazing projects.
 
-When I'm not coding, you can find me exploring new technologies, reading tech blogs, or experimenting with different frameworks and libraries. I'm always eager to take on new challenges and collaborate with like-minded individuals. Let's connect and create something awesome together! 🌟 
+When I'm not coding, you can find me exploring new technologies, reading tech blogs, or experimenting with different frameworks and libraries. I'm always eager to take on new challenges and collaborate with like-minded individuals. Let's connect and create something awesome together! 🌟
+ <div align="center" >
+<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" height="300" width="500"/>
+ </div>
+ 
 **Full stack developer**
 - 🌍 I'm based in Udhampur, Jammu and Kashmir, India
 - ✉️ You can contact me at [nishcheycapture2014@gmail.com](mailto:nishcheycapture2014@gmail.com)
