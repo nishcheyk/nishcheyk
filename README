@@ -1,15 +1,6 @@
 # 💻 Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Nishchey Khajuria
 =========================================================================================================================================
-<div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
-
-</div>
 **Full stack developer**
 
 - 🌍 I'm based in Udhampur, Jammu and Kashmir, India
@@ -67,25 +58,13 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <p align="left">
     <a href="https://www.github.com/nishcheyk" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </a>
     <a href="http://www.instagram.com/nishcheykhajuria" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-        </picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
     </a>
     <a href="https://www.linkedin.com/in/nishchey-khajuria" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </a>
 </p>
 
@@ -97,13 +76,13 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <img src="https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nishcheyk's GitHub stats" />
 </a>
 <a href="http://www.github.com/nishcheyk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
 <a href="http://www.github.com/nishcheyk">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nishcheyk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 <a href="https://github.com/nishcheyk" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 ### Support Me
