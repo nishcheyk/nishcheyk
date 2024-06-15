@@ -80,7 +80,7 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 
 ### Badges
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishcheyk" alt="nishcheyk" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=onedark)](https://github.com/nishcheyk/github-profile-trophy)
 
 <b>My GitHub Stats</b>
 <div align="center">
