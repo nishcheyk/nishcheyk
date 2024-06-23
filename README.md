@@ -72,8 +72,8 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 <div align="center">
 
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/nishcheyk) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nishchey-khajuria-26a0b4236/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nishcheycapture2014@gmail.comsubject=Hello%20Jasper,%20From%20Github)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/nishcheykhajuria) &nbsp;
 
 </div>
