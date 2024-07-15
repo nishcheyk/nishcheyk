@@ -1,3 +1,6 @@
+
+
+
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">  My name is Nishchey Khajuria  
  ========================================================================================
   <div align="center" >
@@ -69,6 +72,7 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 </p>
   </div>
 ### Socials
+
 <div align="center">
 
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/nishcheyk) &nbsp;
@@ -78,16 +82,34 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 </div>
 
-
 ### Badges
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=onedark)](https://github.com/nishcheyk/github-profile-trophy)
 
-<b>My GitHub Stats</b>
-<div align="center">
-    
-[![nishcheyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/nishcheyk)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/nishcheyk)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/nishcheyk)
 </div>
+**My GitHub Stats**
+
+<div align="center">
+  <a href="http://www.github.com/nishcheyk">
+    <img src="https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nishcheyk's GitHub stats" />
+  </a>
+</div>
+
+**GitHub Streak**
+
+<div align="center">
+  <a href="http://www.github.com/nishcheyk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+**Top Languages**
+
+<div align="center">
+  <a href="http://www.github.com/nishcheyk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</div>
+
