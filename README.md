@@ -114,14 +114,6 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
   </a>
 </div>
 
-**Time Management**
-
-<div align="center">
-  <a href="http://www.github.com/nishcheyk">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nishcheyk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=10&custom_title=Time%20Management" alt="Time Management" />
-  </a>
-</div>
-
 
 
 <!-- Links -->
