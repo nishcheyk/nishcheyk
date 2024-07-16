@@ -1,4 +1,4 @@
-<div style="background-color: #808080; padding: 20px;">
+<div style="background-color: #808080;">
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">  My name is Nishchey Khajuria  
 ========================================================================================
@@ -85,8 +85,9 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 ### Trophy 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag2622" alt="anurag2622" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishcheyk" alt="nishcheyk" /></a>
 </p>
+
 
 
 **My GitHub Stats**
