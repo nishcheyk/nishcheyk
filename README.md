@@ -1,23 +1,23 @@
-
-
+<div style="background-color: #808080; padding: 20px;">
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">  My name is Nishchey Khajuria  
- ========================================================================================
-  <div align="center" >
- <img src="https://i.imgur.com/i3sbNAX.gif" width="40%" height="40%" alt="C" />
+========================================================================================
+<div align="center" >
+  <img src="https://i.imgur.com/i3sbNAX.gif" width="40%" height="40%" alt="C" />
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishcheyk&label=Profile%20views&color=0e75b6&style=flat" alt="nishcheyk" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nishcheyk&label=Profile%20views&color=0e75b6&style=flat" alt="nishcheyk" /> 
+</p>
 
 ## About Me
 Hello there! I'm Nishchey Khajuria, a passionate full-stack developer with a knack for creating dynamic and responsive web applications. My journey in the tech world began with a fascination for how things work behind the scenes. This curiosity led me to delve into coding, and since then, I've been on an exciting adventure, learning and building amazing projects.
 
 When I'm not coding, you can find me exploring new technologies, reading tech blogs, or experimenting with different frameworks and libraries. I'm always eager to take on new challenges and collaborate with like-minded individuals. Let's connect and create something awesome together! 🌟
- <div align="center" >
-<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" height="30%" width="50%"/>
- </div>
- 
+<div align="center" >
+  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" height="30%" width="50%"/>
+</div>
+
 **Full stack developer**
 - 🌍 I'm based in Udhampur, Jammu and Kashmir, India
 - ✉️ You can contact me at [nishcheycapture2014@gmail.com](mailto:nishcheycapture2014@gmail.com)
@@ -25,7 +25,7 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 - ⚡ Fun fact: Don't tell anyone, I am a ninja! 🥷
 
 ### Skills
-  <div align="center" >
+<div align="center" >
 <p align="center">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -70,7 +70,8 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
 </p>
-  </div>
+</div>
+
 ### Socials
 
 <div align="center">
@@ -87,8 +88,8 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=onedark)](https://github.com/nishcheyk/github-profile-trophy)
 
-
 </div>
+
 **My GitHub Stats**
 
 <div align="center">
@@ -113,3 +114,15 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
   </a>
 </div>
 
+**Time Management**
+
+<div align="center">
+  <a href="http://www.github.com/nishcheyk">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nishcheyk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=10&custom_title=Time%20Management" alt="Time Management" />
+  </a>
+</div>
+
+
+
+<!-- Links -->
+</div>
