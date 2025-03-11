@@ -96,9 +96,12 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <a href="http://www.github.com/nishcheyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nishcheyk's GitHub stats" />
-  </a>
+
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=nishcheyk&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+</p>
+
 </div>
 
 ## 📚 Top Languages
