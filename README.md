@@ -82,40 +82,22 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 [![Instagram](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/nishcheykhajuria) &nbsp;
 
 </div>
-
-### Trophy 
+## 🏆 GitHub Trophy
 <p align="center">
-  <a href="http://www.github.com/nishcheyk">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishcheyk&row=1" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nishcheyk&show_icons=true&theme=radical&count_private=true" />
+</p>
 
+## 🔥 GitHub Streak
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=nishcheyk&theme=radical&hide_border=true&date_format=M%20D%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
 
-**My GitHub Stats**
-
-<div align="center">
-  <a href="http://www.github.com/nishcheyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nishcheyk's GitHub stats" />
-  </a>
-</div>
-
-**GitHub Streak**
-
-<div align="center">
-  <a href="http://www.github.com/nishcheyk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishcheyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-**Top Languages**
-
-<div align="center">
-  <a href="http://www.github.com/nishcheyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
-
-
-
-<!-- Links -->
-</div>
+## 📚 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nishcheyk&layout=compact&theme=radical&langs_count=10" />
+</p>
