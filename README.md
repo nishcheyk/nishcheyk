@@ -88,14 +88,18 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nishcheyk&show_icons=true&theme=radical&count_private=true" />
-</p>
+<div align="center">
+  <a href="http://www.github.com/nishcheyk">
+    <img src="https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nishcheyk's GitHub stats" />
+  </a>
+</div>
 
 ## 🔥 GitHub Streak
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nishcheyk&theme=radical&hide_border=true&date_format=M%20D%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+<div align="center">
+  <a href="http://www.github.com/nishcheyk">
+    <img src="https://github-readme-stats.vercel.app/api?username=nishcheyk&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nishcheyk's GitHub stats" />
+  </a>
+</div>
 
 ## 📚 Top Languages
 <p align="center">
