@@ -85,8 +85,13 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/nishcheyk">
+    <img src="https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </p>
+
+
+
 
 ## 📊 GitHub Stats
 <div align="center">
