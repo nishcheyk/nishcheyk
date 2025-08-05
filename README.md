@@ -72,6 +72,10 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 </p>
 </div>
 
+### 🌐 Visit My Website
+[![Website](https://img.shields.io/badge/website-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome)](https://nishcheykhajuria.onrender.com)
+
+
 ### Socials
 
 <div align="center">
@@ -89,7 +93,6 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
     <img src="https://github-profile-trophy.vercel.app/?username=nishcheyk&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </p>
-
 
 
 
