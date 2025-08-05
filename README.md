@@ -107,5 +107,5 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 
 ## 📚 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nishcheyk&layout=compact&theme=radical&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&layout=compact&theme=radical" />
 </p>
