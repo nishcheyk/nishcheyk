@@ -116,10 +116,13 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 </div>
 
 ## 📚 Top Languages
+<div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishcheyk&layout=compact&theme=radical" />
 </p>
-## 🤡 Programming Joke
+</div>
+🤡 Programming Joke 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" />
 </div>
+
